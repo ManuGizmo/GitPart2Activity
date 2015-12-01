@@ -1,1 +1,3 @@
 L'auteur de ce magnifique projet s'appelle ManuGizmo (et c'est moi)!
+
+J'arrive même à modifier le fichier depuis GitHub... Quel génie!
